@@ -1,33 +1,17 @@
-# new_project_7
+# GameBLogs App
 
-This template should help get you started developing with Vue 3 in Vite.
+### This is an app that publishs posts about games and most player or popular games
 
-## Recommended IDE Setup
+#### We have two actors in this app
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+##### 1- User : who will use the app and will have those tabs if he didn't login
 
-## Type Support for `.vue` Imports in TS
+![1744311709595](image/README/1744311709595.png)
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+##### And will have these tabs if he logged
 
-## Customize configuration
+![1744311915853](image/README/1744311915853.png)
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+##### 2- Admin: who will publish the posts and will have these tabs
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+![1744312008594](image/README/1744312008594.png)
