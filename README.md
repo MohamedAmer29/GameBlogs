@@ -2,6 +2,7 @@
 
 ### This is an app that publishs posts about games and most player or popular games
 
+
 #### We have two actors in this app
 
 ##### 1- User : who will use the app and will have those tabs if he didn't login
