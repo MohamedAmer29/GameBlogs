@@ -10,7 +10,9 @@
 
 ##### And will have these tabs if he logged
 
+
 ![1744311915853](image/README/1744311915853.png)
+
 
 ##### 2- Admin: who will publish the posts and will have these tabs
 
